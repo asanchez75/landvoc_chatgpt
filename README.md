@@ -27,7 +27,8 @@ WHERE {
 
 ```
 
-To verify the correcteness of the query, you can test it in the SPARQL endpoint provided by AGROVOC
+To verify the correcteness of the query, you can test it in the SPARQL endpoint provided by AGROVOC.
+
 Just paste the above query here:
 
 https://agrovoc.fao.org/sparql
