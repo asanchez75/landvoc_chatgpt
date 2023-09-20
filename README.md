@@ -1,4 +1,4 @@
-# Few-shots training to teach ChatGPT how to build SPARQL queries from natural language questions against LandVoc
+# Few-shot training to teach ChatGPT how to build SPARQL queries from natural language questions against LandVoc
 
 The methodology is described here by a collection of [prompts](https://htmlpreview.github.io/?https://raw.githubusercontent.com/asanchez75/landvoc_chatgpt/main/landvoc.html).
 I had to shrink the LandVoc taxonomy to its english version in order to deal with the size limitations of context window. The trimming process of the taxonomy is described [here](https://htmlpreview.github.io/?https://github.com/asanchez75/landvoc_chatgpt/blob/main/trimming_landvoc.html)
